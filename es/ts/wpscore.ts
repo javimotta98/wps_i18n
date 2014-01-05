@@ -51,11 +51,11 @@
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! El nombre de estilo no está especificado.</translation>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! El estilo no está especificado.</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Error! Reference source not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Fuente de referencia no encontrada.</translation>
     </message>
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
@@ -137,15 +137,15 @@
     </message>
     <message>
         <source>Error! Bookmark not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Marcador no especificado.</translation>
     </message>
     <message>
         <source>Error! The file you specified cannot be open.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! El archivo especificado no se puede abrir.</translation>
     </message>
     <message>
         <source>Error! Filename not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Error! Nombre de archivo no especificado.</translation>
     </message>
     <message>
         <source>Error! Title list level is invalid.</source>
@@ -210,11 +210,11 @@
     </message>
     <message>
         <source>Odd Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página impar</translation>
     </message>
     <message>
         <source>Even Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Página par</translation>
     </message>
     <message>
         <source> Header </source>
@@ -256,27 +256,27 @@
     </message>
     <message>
         <source>Section Break (Next Page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección (Siguiente página)</translation>
     </message>
     <message>
         <source>Section Break (Continuous)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección (Contínuo)</translation>
     </message>
     <message>
         <source>Section Break (Even Page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección (Página par)</translation>
     </message>
     <message>
         <source>Section Break (Odd Page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección (Página impar)</translation>
     </message>
     <message>
         <source>End of Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Final de sección</translation>
     </message>
     <message>
         <source>Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Salto de sección</translation>
     </message>
     <message>
         <source>The end of the protected section</source>
@@ -291,7 +291,7 @@
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar formato de párrafo</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -299,13 +299,13 @@
     </message>
     <message>
         <source>Columns Formatting Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar formato de columna</translation>
     </message>
     <message>
         <source>Formatting</source>
         <translation>Formato</translation>
     </message>
-    <message>
+    <message>odd pag
         <source>Table Width</source>
         <translation>Ancho de tabla</translation>
     </message>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>Center Tab</source>
-        <translation>Centrar tabulación</translation>
+        <translation>Tabulación central</translation>
     </message>
     <message>
         <source>Right Tab</source>
